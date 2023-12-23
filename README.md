@@ -1,5 +1,8 @@
  **I've analyzed the two security logs you provided, and here's a summary of the key findings:**
 
+```
+
+```
 **Log 1:**
 
 - **File Name:** executable.8180.exe
@@ -39,3 +42,5 @@
 6. **Security Awareness:** Educate users about safe browsing practices and the importance of avoiding unknown files or links.
 7. **Proactive Protection:** Implement security measures like application whitelisting, network segmentation, and regular backups.
 8. **Seek Professional Assistance:** Consult cybersecurity professionals for further guidance and assistance in securing your environment.
+
+
