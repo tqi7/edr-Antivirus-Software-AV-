@@ -1,8 +1,42 @@
  **I've analyzed the two security logs you provided, and here's a summary of the key findings:**
 
-```
+```==================================================
+Filename          : executable.8180.exe
+Detect Time       : 30.09.2022 16:19:00
+Threat Name       : Trojan:Win32/Swrort.A
+Severity          : Severe (5)
+Category          : Trojan (8)
+Detection User    : DESKTOP-9A7S2G1\letsdefend
+Action            : Not Applicable (9)
+Origin            : Local machine (1)
+Process Name      : C:\Program Files\Everything\Everything.exe
+URL               : https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Swrort.A&threatid=2147630763&enterprise=0
+Detect Path       : file:_C:\Users\letsdefend\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\blueteam\volatility\executable.8180.exe
+Threat ID         : 2147630763
+Detection ID      : {053B7695-9705-4161-873B-9238EFC8DFC7}
+Computer Name     : DESKTOP-9A7S2G1
+Event Log Time    : 30.09.2022 16:19:00
+==================================================
 
-```
+==================================================
+Filename          : program1
+Detect Time       : 9.09.2022 19:48:56
+Threat Name       : Backdoor:Linux/GetShell.A!xp
+Severity          : Severe (5)
+Category          : Backdoor (6)
+Detection User    : DESKTOP-9A7S2G1\letsdefend
+Action            : Not Applicable (9)
+Origin            : Local machine (1)
+Process Name      : C:\Windows\explorer.exe
+URL               : https://go.microsoft.com/fwlink/?linkid=37020&name=Backdoor:Linux/GetShell.A!xp&threatid=2147797444&enterprise=0
+Detect Path       : file:_C:\Users\letsdefend\Desktop\malware\program1
+Threat ID         : 2147797444
+Detection ID      : {E33788CA-2FB1-4794-A762-DD819C3F7B95}
+Computer Name     : DESKTOP-9A7S2G1
+Event Log Time    : 9.09.2022 19:48:56
+==================================================```
+
+
 **Log 1:**
 
 - **File Name:** executable.8180.exe
