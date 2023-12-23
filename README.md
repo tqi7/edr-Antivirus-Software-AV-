@@ -1,6 +1,7 @@
  **I've analyzed the two security logs you provided, and here's a summary of the key findings:**
 
-```==================================================
+```
+==================================================
 Filename          : executable.8180.exe
 Detect Time       : 30.09.2022 16:19:00
 Threat Name       : Trojan:Win32/Swrort.A
@@ -34,9 +35,8 @@ Threat ID         : 2147797444
 Detection ID      : {E33788CA-2FB1-4794-A762-DD819C3F7B95}
 Computer Name     : DESKTOP-9A7S2G1
 Event Log Time    : 9.09.2022 19:48:56
-==================================================```
-
-
+==================================================
+```
 **Log 1:**
 
 - **File Name:** executable.8180.exe
@@ -76,5 +76,3 @@ Event Log Time    : 9.09.2022 19:48:56
 6. **Security Awareness:** Educate users about safe browsing practices and the importance of avoiding unknown files or links.
 7. **Proactive Protection:** Implement security measures like application whitelisting, network segmentation, and regular backups.
 8. **Seek Professional Assistance:** Consult cybersecurity professionals for further guidance and assistance in securing your environment.
-
-
